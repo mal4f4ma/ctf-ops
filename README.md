@@ -29,7 +29,7 @@ No hay mejor forma de aprender terminal mas que practicando
 * Bandit - wargame in terminal [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 * Comandos basicos [https://www.hostinger.mx/tutoriales/linux-comandos](https://www.hostinger.mx/tutoriales/linux-comandos)
 
-# Git (opcional)
-* Tutorial de git [https://rogerdudler.github.io/git-guide/index.es.html](https://rogerdudler.github.io/git-guide/index.es.html)
-
+# CTFs que son?
+* CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/] (https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
+* Recurso de las categorias de un CTF [https://picoctf.com/resource](https://picoctf.com/resource)
 
