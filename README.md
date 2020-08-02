@@ -32,7 +32,7 @@ No hay mejor forma de aprender terminal mas que practicando
 
 # IDE
 * Cual elegir [https://www.youtube.com/watch?v=ZPhlTRGloUQ](https://www.youtube.com/watch?v=ZPhlTRGloUQ)
-* VSCode [https://code.visualstudio.com/download]((https://code.visualstudio.com/download))
+* VSCode [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 * Atom [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 * Sublime text [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
