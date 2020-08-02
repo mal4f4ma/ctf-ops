@@ -2,7 +2,7 @@
 
 Esta es la repo de nuestro training, a continuacion listare algunas herramientas basicas que debemos manejar.
 
-**No te olvides de leer la agenda por favor** [AGENDA](https://github.com/mal4f4ma/ctf-ops/blob/master/agenda.md)
+******No te olvides de leer la agenda por favor** [AGENDA](https://github.com/mal4f4ma/ctf-ops/blob/master/agenda.md)****
 
 # Sistemas operativos IOS
 * Kali linux 2020 [https://www.kali.org/downloads/](https://www.kali.org/downloads/)
