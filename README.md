@@ -30,6 +30,6 @@ No hay mejor forma de aprender terminal mas que practicando
 * Comandos basicos [https://www.hostinger.mx/tutoriales/linux-comandos](https://www.hostinger.mx/tutoriales/linux-comandos)
 
 # CTFs que son?
-* CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/] (https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
+* CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/](https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
 * Recurso de las categorias de un CTF [https://picoctf.com/resource](https://picoctf.com/resource)
 
