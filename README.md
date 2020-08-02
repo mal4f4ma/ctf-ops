@@ -29,6 +29,12 @@ No hay mejor forma de aprender terminal mas que practicando
 * Bandit - wargame in terminal [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 * Comandos basicos [https://www.hostinger.mx/tutoriales/linux-comandos](https://www.hostinger.mx/tutoriales/linux-comandos)
 
+# IDE
+* Cual elegir [https://www.youtube.com/watch?v=ZPhlTRGloUQ](https://www.youtube.com/watch?v=ZPhlTRGloUQ)
+* VSCode [https://code.visualstudio.com/download]((https://code.visualstudio.com/download))
+* Atom [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+* Sublime text [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
+
 # CTFs que son?
 * CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/](https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
 * Recurso de las categorias de un CTF [https://picoctf.com/resource](https://picoctf.com/resource)
