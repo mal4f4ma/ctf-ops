@@ -38,5 +38,5 @@ No hay mejor forma de aprender terminal mas que practicando
 
 # CTFs que son?
 * CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/](https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
-* Recurso de las categorias de un CTF [https://picoctf.com/resource](https://picoctf.com/resource)
+* Recurso de las categorias de un CTF [https://picoctf.com/resources](https://picoctf.com/resources)
 
