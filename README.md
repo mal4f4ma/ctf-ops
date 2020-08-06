@@ -4,7 +4,7 @@ Esta es la repo de nuestro training, a continuacion listare algunas herramientas
 
 **** **No te olvides de leer la agenda por favor** [AGENDA](https://github.com/mal4f4ma/ctf-ops/blob/master/agenda.md) ****
 
-# Sistemas operativos IOS
+# Sistemas operativos
 * Kali linux 2020 [https://www.kali.org/downloads/](https://www.kali.org/downloads/)
 * Ubuntu desktop [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
 * Parrot os [https://parrotlinux.org/download/](https://parrotlinux.org/download/)
