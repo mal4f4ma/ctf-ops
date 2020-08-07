@@ -1,4 +1,4 @@
-# Training para CTfs equipo ESIME CU 2020
+# Training para CTFs equipo ESIME CU 2020
 
 Esta es la repo de nuestro training, a continuacion listare algunas herramientas basicas que debemos manejar.
 
@@ -37,6 +37,6 @@ No hay mejor forma de aprender terminal mas que practicando
 * Sublime text [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
 # CTFs que son?
-* CTfs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/](https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
+* CTFs [https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/](https://securityintelligence.com/behind-the-scenes-at-a-capture-the-flag-ctf-competition/)
 * Recurso de las categorias de un CTF [https://picoctf.com/resources](https://picoctf.com/resources)
 
