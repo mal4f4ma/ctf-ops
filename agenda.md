@@ -1,12 +1,23 @@
-# Agenda del 01/08/2020 al 04/09/2020
+# Agenda preparacion hackDef Final y hackMex IPN
 
-* **Lunes 03 agosto**, inicia la propuesta de nombres para el equipo.
-* **Miercoles 05 agosto**, primera sesion de dudas (instalacion de VMs - temrianl - python)
-* **Sabado 08 agosto**, segunda sesion de dudas (temrianl - python) y definicion del nombre del equipo
-* **Domingo 09 agosto**, ya deben de estar armados los 4 sub equipos, (web, rev, pwn, crypto)
-* **Lunes 10 agosto**, registro del equipo al hackDef 4
-* **Miercoles 12 agosto**, ultima sesion de dudas (temrianl - python), deben dominar lo basico de python y terminal
-* **Viernes 14 agosto**, empezamos picoCTF de 8PM a 8 PM del domingo 16 agosto.
-* **Viernes 21 agosto**, googleCTF
+HackMex IPN - __del miercoles 07/10/2020 al viernes 09/10/2020__
+HackDef 4 Fianles - __del viernes 16/10/2020 ald domingo 18/10/2020__
 
-  
+jueves y sabado resolucion de maquinas con pentesting, timepor aproximado 2hrs - __empezando jueves 10, 10 pm__
+
+Cada Sub equipo tendra acceso con la cuenta [https://247ctf.com](https://247ctf.com) del equipo
+
+Creds:
+upwnd
+CrA$APr4charuDRipr4S
+
+Se resolveran retos de cada categoria, los cuales cada integrante de cada sub equipo tendra que presentar en un meet, como lo soluciono, explicar reto y que
+aprendio del mismo, maximo 20 minutos, tambien se debera presentar una kata de programacion en python de la pagina [https://www.codewars.com/](https://www.codewars.com/)
+
+Las presentaciones son a las 10PM
+
+Lunes __presenta equipo web__
+Miercoles __presenta crypto__
+Lunes o miercoles __presenta pwn__
+
+Recomendado sacar cuenta en [https://tryhackme.com/](https://tryhackme.com/) para pentesting
